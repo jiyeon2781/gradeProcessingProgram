@@ -1,10 +1,9 @@
 package main;
 
-import function.*;
-import gui.*;
+import gui.ListGui;
+
 public class Main {
 	public static void main(String[] args) {
-		new ListGui(); //gui실행 클래스
+		new ListGui();
 	}
-
 }
